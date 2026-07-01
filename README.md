@@ -53,13 +53,37 @@ Mobius was born to address these gaps. It brings <strong>Agent OS, project syste
 
 Mobius can continuously modify itself around user needs, and it can also track frontier technologies and evolve according to user preferences. Give it a change request, a screenshot, or a reference link, and it can turn that input into real code, interfaces, plugins, or workflow updates.
 
+<p>
+  <sub><strong>Related manuals:</strong>
+    <a href="https://nutshellai-tech.github.io/mobius/self-evo-demo/">Simple self-evolution example</a>
+    · <a href="https://nutshellai-tech.github.io/mobius/tutorial/13_xiaomo_control_hub/">XiaoMo control hub</a>
+    · <a href="https://nutshellai-tech.github.io/mobius/tutorial/16_change_frontend_theme/">Change frontend theme</a>
+  </sub>
+</p>
+
 ### 2. <strong>Human-machine-object-intelligence-compute collaboration</strong>
 
 Mobius uses Agent OS as its core and organizes five elements into one system: humans define goals and judgment; machines carry development, debugging, and deployment; objects observe and act in the physical world; intelligence organizes and executes tasks; compute provides the resources. Together they form a traceable, reviewable, and continuously improving collaboration loop.
 
+<p>
+  <sub><strong>Related manuals:</strong>
+    <a href="https://nutshellai-tech.github.io/mobius/tutorial/04_add_remote_server/">Add remote compute</a>
+    · <a href="https://nutshellai-tech.github.io/mobius/tutorial/02a_import_project_and_begin_first_job/">Import a project and start the first job</a>
+    · <a href="https://nutshellai-tech.github.io/mobius/tutorial/03a_using_skill_and_memory/">Use Skill and Memory</a>
+  </sub>
+</p>
+
 ### 3. <strong>XiaoMo: simple and natural to use</strong>
 
 XiaoMo turns a complex super-agent system into a natural-language entrance that even a beginner can use. Users only need to talk to XiaoMo to call resources, create projects, split tasks, launch agents, track progress, summarize results, and receive key reminders.
+
+<p>
+  <sub><strong>Related manuals:</strong>
+    <a href="https://nutshellai-tech.github.io/mobius/tutorial/13_xiaomo_control_hub/">XiaoMo control hub</a>
+    · <a href="https://nutshellai-tech.github.io/mobius/tutorial/05_using_xiaomo_assistant/">XiaoMo Assistant on the web</a>
+    · <a href="https://nutshellai-tech.github.io/mobius/tutorial/14_chat_input_tips/">Chat input tips</a>
+  </sub>
+</p>
 
 ---
 
@@ -69,17 +93,57 @@ XiaoMo turns a complex super-agent system into a natural-language entrance that 
 
 Mobius can automatically break complex work into subtasks and dynamically assign them to multiple agents. Different agents can take on research, development, testing, design, documentation, and review roles, then make steady progress toward completion. Every agent activity can be tracked and intervened in.
 
+<p>
+  <sub><strong>Related manuals:</strong>
+    <a href="https://nutshellai-tech.github.io/mobius/tutorial/13_xiaomo_control_hub/">XiaoMo control hub</a>
+    · <a href="https://nutshellai-tech.github.io/mobius/tutorial/02a_import_project_and_begin_first_job/">Parallel sessions and project jobs</a>
+    · <a href="https://nutshellai-tech.github.io/mobius/tutorial/08_monitor_agents/">Monitor agents</a>
+    · <a href="https://nutshellai-tech.github.io/mobius/tutorial/06_prevent_agent_idle/">Prevent agent idling</a>
+    · <a href="https://nutshellai-tech.github.io/mobius/tutorial/20_research_agent_team/">Research agent team</a>
+  </sub>
+</p>
+
 ### 5. <strong>Human team collaboration</strong>
 
 Mobius places human members, AI agents, project tasks, and deliverables in one collaboration view. Team leads can see who is doing what, where each agent is, which results need confirmation, and where risks exist, reducing manual follow-ups and fragmented communication.
+
+<p>
+  <sub><strong>Related manuals:</strong>
+    <a href="https://nutshellai-tech.github.io/mobius/tutorial/01_add_user/">Add users</a>
+    · <a href="https://nutshellai-tech.github.io/mobius/tutorial/08_monitor_agents/">Monitor agents</a>
+    · <a href="https://nutshellai-tech.github.io/mobius/tutorial/17_favorite_project/">Favorite projects</a>
+    · <a href="https://nutshellai-tech.github.io/mobius/tutorial/03a_using_skill_and_memory/">Project Skill and Memory</a>
+    · <a href="https://nutshellai-tech.github.io/mobius/tutorial/12_migrate_skill_memory/">Migrate Skill and Memory</a>
+  </sub>
+</p>
 
 ### 6. <strong>Compatible with any AI model</strong>
 
 Mobius does not bet on a single model, nor does it simply call APIs. GPT, Claude, GLM, Codex, and future models can all become execution engines for different agents inside the same project, task, context, and delivery flow.
 
+<p>
+  <sub><strong>Related manuals:</strong>
+    <a href="https://nutshellai-tech.github.io/mobius/tutorial/09_config_codex_model/">Configure Codex and models</a>
+    · <a href="https://nutshellai-tech.github.io/mobius/tutorial/10_config_claude_code_model/">Configure Claude Code and models</a>
+    · <a href="https://nutshellai-tech.github.io/mobius/tutorial/15_switch_model_mid_session/">Switch models mid-session</a>
+    · <a href="https://nutshellai-tech.github.io/mobius/tutorial/11_limit_model_usage/">Limit model usage</a>
+  </sub>
+</p>
+
 ### 7. <strong>Self-incubating extensions</strong>
 
 Mobius ships with built-in extension apps and can also incubate new apps from user needs. Financial news walls, PPT generators, research workbenches, World Cup portals, and internal tools can all be generated as extensions with frontend, backend handlers, data directories, and invocation entries, then continue to evolve.
+
+<table>
+  <tr>
+    <td width="50%"><img src="./assets/extension-matrix-rounded.png" alt="Matrix-style extension screenshot" /></td>
+    <td width="50%"><img src="./assets/extension-finance-news-wall-rounded.png" alt="Financial news wall extension screenshot" /></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/extension-world-cup-rounded.png" alt="World Cup extension screenshot" /></td>
+    <td width="50%"><img src="./assets/extension-ppt-maker-rounded.png" alt="PPT maker extension screenshot" /></td>
+  </tr>
+</table>
 
 ---
 
